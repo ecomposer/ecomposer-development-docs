@@ -1,0 +1,40 @@
+{
+    "items": [{
+        "id": 34546456,
+        "created": 2454676354,
+        "updated": 23456789089,
+        "favorite": true,
+        "thumbnail": "https://library.elementor.com/wp-content/uploads/2021/06/250x280.png",
+        "title": "Preset #1 for Heading",
+        "category": "heading",
+        "data": {
+            "element": {
+                "settings": {
+                    "content": "Hello, I'm heading",
+                    "tag": "h1"
+                },
+                "style": {},
+                "advanced": {}
+            },
+            "global": {}
+        }
+    }],
+    "categories": [{
+        "id": 43546,
+        "title": "heading"
+    }, {
+        "id": 9876,
+        "title": "tabs"
+    }, {
+        "id": 24354,
+        "title": "accordion"
+    }],
+    "metadata": {
+        "paged": 1,
+        "total": 25,
+        "limit": 20,
+        "search": "",
+        "category": "",
+        "type": "newest"
+    }
+}
