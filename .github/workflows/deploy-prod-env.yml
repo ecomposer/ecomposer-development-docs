@@ -1,4 +1,4 @@
-name: EComposer Shopify Page Builder app Env CI
+name: EComposer Storybook
 
 on:
   push:
