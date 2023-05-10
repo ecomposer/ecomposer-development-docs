@@ -904,7 +904,6 @@ div.ecom-block {
     }
 }
 .ecom-video-background {
-    z-index: -1;
     position: absolute;
     inset: 0;
     top: 0;
