@@ -1,0 +1,48 @@
+{
+    "items": [{
+        "id": 34546456,
+        "created": 2454676354,
+        "updated": 23456789089,
+        "favorite": true,
+        "thumbnail": "https://library.elementor.com/wp-content/uploads/2021/06/250x280.png",
+        "title": "Landing birthday",
+        "category": 43546,
+        "data": {
+            "sections": [{
+                "name": "Library Section",
+                "gap": 14,
+                "columns": [{
+                    "width": 30,
+                    "blocks": [{
+                        "name": "heading",
+                        "settings": {
+                            "content": "Hello, I'm heading",
+                            "tag": "h1"
+                        }
+                    }]
+                }, {
+                    "width": 70,
+                    "blocks": []
+                }]
+            }]
+        }
+    }],
+    "categories": [{
+        "id": 43546,
+        "title": "Landing"
+    }, {
+        "id": 9876,
+        "title": "Product"
+    }, {
+        "id": 24354,
+        "title": "Collection"
+    }],
+    "metadata": {
+        "paged": 1,
+        "total": 25,
+        "limit": 20,
+        "search": "",
+        "category": "",
+        "type": "newest"
+    }
+}
