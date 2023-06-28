@@ -932,3 +932,6 @@ div.ecom-block {
 .ecom-core div:empty {
     display: block;
 }
+.ecom-overlay {
+    pointer-events: none;
+}
